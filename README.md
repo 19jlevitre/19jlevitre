@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+ I am a current student at Bloom Tech learning full-stack web dev!
+ 
+ 
+ Some of the Languages that I have gained experience with are HTML, CSS, JavaScripts, React.js, Node.js, and Express!
+ 
+ Check out some of my Projects!
 <!--
 **19jlevitre/19jlevitre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
