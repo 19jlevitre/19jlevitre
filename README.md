@@ -1,5 +1,7 @@
 ### Hi there 👋
- I am a current student at Bloom Tech learning full-stack web dev!
+ I'm Jonathon, a Full-Stack Web Developer!
+
+Recently, I have been contributing to a non-profit project as a Technical Project Manager, working to develop enhancements for an existing codebase that facilitates technical code education opportunities by matching development mentors to mentees.
  
  
  Some of the Languages that I have gained experience with are HTML, CSS, JavaScripts, React.js, Node.js, and Express!
